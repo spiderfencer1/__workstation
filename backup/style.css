@@ -1,0 +1,22 @@
+*
+{
+ margin:0;
+ padding:0;
+ overflow:hidden;
+ border:none;
+ outline:none;
+}
+html,body
+{
+ width:100%;
+ height:100%;
+ background:#1a1a1c;
+}
+iframe
+{
+ position:absolute;
+ width:25%;
+ height:75%;
+}
+iframe#left{left:12.5vw;top:12.5vh;}
+iframe#right{left:62.5vw;top:12.5vh;}
